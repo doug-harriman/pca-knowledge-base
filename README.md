@@ -10,6 +10,13 @@ Knowledge base created as I fumble my way through learning about electrical engi
 
 ## KiCAD External Tools
 
+* [KiKit](https://github.com/yaqwsx/KiKit) - Python CLI to:
+  * Panelize PCBs
+  * Generate fabrication files for major quick turn PCB houses.
+  * Generate 3D printable soldermask stencil.
+  * Generate presentation.
+  * **NOTE**: Can be run in Docker container, see [kikit.sh](./kikit.sh).
+   
 * [KiBOM](https://github.com/SchrodingersGat/KiBoM) - Python CLI to generate HTML & CSV BOM files.
 * [KiBot](https://github.com/INTI-CMNB/KiBot)
   * Generate all fab files.
